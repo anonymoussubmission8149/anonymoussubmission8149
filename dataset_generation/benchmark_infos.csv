@@ -1,0 +1,27 @@
+,name_task_target,bagging_benchmark,minRMSE<0.25_benchmark,Concrete_ablation,Abalone_ablation
+0,Concrete Slump Testslump_test.data_task_R_target_-1,1,1,1,0
+1,Concrete Slump Testslump_test.data_task_R_target_-2,1,1,0,0
+2,Concrete Slump Testslump_test.data_task_R_target_-3,1,1,0,0
+3,restaurant-revenue-predictiontrain.csv_task_R_target_-1,0,0,0,0
+4,Servoservo.data_task_R_target_-1,1,1,0,0
+5,Computer Hardwaremachine.data_task_R_target_-1,1,1,0,0
+6,Yacht Hydrodynamicsyacht_hydrodynamics.data_task_R_target_-1,1,1,0,0
+7,QSAR aquatic toxicityqsar_aquatic_toxicity.csv_task_R_target_-1,1,0,0,0
+8,Optical Interconnection Network optical_interconnection_network.csv_task_R_target_7,1,1,0,0
+9,Optical Interconnection Network optical_interconnection_network.csv_task_R_target_8,1,1,0,0
+10,Optical Interconnection Network optical_interconnection_network.csv_task_R_target_5,1,1,0,0
+11,QSAR Bioconcentration classes datasetGrisoni_et_al_2016_EnvInt88.csv_task_R_target_-1,1,0,0,0
+12,wiki4HEwiki4HE.csv_task_R_target_-10,1,0,0,0
+13,wiki4HEwiki4HE.csv_task_R_target_-11,1,0,0,0
+14,QSAR fish toxicityqsar_fish_toxicity.csv_task_R_target_-1,0,0,0,0
+15,mirichoi0218_insuranceinsurance.csv_task_R_target_-1,0,0,0,0
+16,Communities and Crimecommunities.data_task_R_target_-1,0,0,0,0
+17,Abaloneabalone.data_task_R_target_-1,1,0,0,1
+18,mercedes-benz-greener-manufacturingtrain.csv_task_R_target_1,0,0,0,0
+19,arashnic_marketing-seris-customer-lifetime-valuesquark_automotive_CLV_training_data.csv_task_R_target_2,0,0,0,0
+20,Seoul Bike Sharing DemandSeoulBikeData.csv_task_R_target_1,1,0,0,0
+21,Electrical Grid Stability Simulated Data Data_for_UCI_named.csv_task_R_target_-2,0,1,0,0
+22,snooptosh_bangalore-real-estate-priceblr_real_estate_prices.csv_task_R_target_-1,0,0,0,0
+23,Appliances energy predictionenergydata_complete.csv_task_R_target_2,0,0,0,0
+24,Beijing PM2.5 DataPRSA_data_2010.1.1-2014.12.31.csv_task_R_target_5,0,0,0,0
+25,Physicochemical Properties of Protein Tertiary StructureCASP.csv_task_R_target_6,0,1,0,0
